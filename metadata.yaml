@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38688'
     url: http://www.gutenberg.org/2009/agents/38688
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37177#Ludvig-Holberg-The-Founder-of-Norwegian-Literature-and-an-Oxford-Student
 gutenberg_issued: '2011-08-23'
 gutenberg_type: Text
 identifiers:
