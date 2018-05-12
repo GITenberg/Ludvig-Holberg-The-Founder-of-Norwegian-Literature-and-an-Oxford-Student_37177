@@ -1,0 +1,27 @@
+_repo: Ludvig-Holberg-The-Founder-of-Norwegian-Literature-and-an-Oxford-Student_37177
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hammer, S. C. (Simon Christian)
+    alias: Hammer, Simon Christian
+    birthdate: 1866
+    gutenberg_agent_id: '38688'
+    url: http://www.gutenberg.org/2009/agents/38688
+description: ''
+gutenberg_issued: '2011-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37177'
+  lccn: '20026753'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Holberg, Ludvig, 1684-1754'
+- !lcc 'PT'
+title: Ludvig Holberg, The Founder of Norwegian Literature and an Oxford Student
+url: http://www.gutenberg.org/ebooks/37177
